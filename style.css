@@ -1,0 +1,31 @@
+#container{
+	width:960px;
+	margin:10px auto;
+}
+header{
+	height:80px;
+	background-color:lightgreen;
+}
+nav{
+	height:30px;
+	background-color:yellow;
+}
+aside{
+	height:180px;
+	width:250px;
+	background-color:lightgrey;
+	float:right;
+}
+section{
+	height:250px;
+	width:700px;
+	background-color:lightblue;
+	float:left;
+}
+footer{
+	height:50px;
+	background-color:orange;
+}
+.clear{
+	clear:both;
+}
